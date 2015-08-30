@@ -5,8 +5,22 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Michael Vendivel <mvendivel@us.ibm.com>",
-  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mven/sass-lint-cli.git"
+  },
+  "keywords": [
+    "Sass",
+    "SCSS",
+    "lint",
+    "CLI"
+  ],
+  "bugs": {
+    "url": "https://github.com/mven/sass-lint-cli/issues"
+  },
+  "homepage": "https://github.com/mven/sass-lint-cli",
+  "author": "Michael Vendivel <michael@vendivel.com>",
+  "license": "MIT",
   "preferGlobal": true,
   "bin": {
     "sl-cli": "index.js"
