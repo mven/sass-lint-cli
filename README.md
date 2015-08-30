@@ -10,7 +10,7 @@ npm install sass-lint-cli
 ```bash
 sl-cli main.scss
 
-npm install *.scss
+sl-cli *.scss
 
-npm install **/*.scss
+sl-cli **/*.scss
 ```
