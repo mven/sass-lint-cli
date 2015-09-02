@@ -1,6 +1,9 @@
 # Sass Lint CLI
 A CLI package for [Sass Lint](https://github.com/sasstools/sass-lint)
 
+# ! Deprecated !
+Now that [Sass Lint](https://github.com/sasstools/sass-lint) has a built-in CLI, this package is now depreated. Please use [Sass Lint](https://github.com/sasstools/sass-lint) for your CLI purposes as I cannot guarantee this will be available in the future.
+
 ## Installation
 ```bash
 npm install sass-lint-cli
